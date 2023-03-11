@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpermingeat&show_icons=true&locale=en&layout=compact" alt="mpermingeat" /></p>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpermingeat&repo==Recipes-APi)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpermingeat&repo=Recipes-APi)
