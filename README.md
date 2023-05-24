@@ -31,3 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpermingeat&" alt="mpermingeat" /></p>
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpermingeat&repo=E-commerce)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mpermingeat&repo=Recipes-APi)
+
